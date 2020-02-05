@@ -1,0 +1,4 @@
+*.csv
+praw.ini
+raw_data/
+
